@@ -1,22 +1,34 @@
-🕹️ Game Summary: Midnight Fridge Raid
-In Midnight Fridge Raid, the player controls a sneaky character trying to grab a snack from the fridge and return to bed without waking up the house.
+🎮 Midnight Fridge Raid – Game Summary
+You play as a sneaky character trying to grab a snack from the fridge and return to bed without waking the house. The game is set on a 15x15 grid and has 3 progressive levels of difficulty.
 
-🛏️ Start Position: Bottom-left bedroom tile.
+🔄 Objective:
+Start at your bedroom (bottom-left).
 
-❄️ Goal: Reach the fridge (top-right), grab a snack, and return to bed.
+Reach the fridge (top-right) to collect a snack.
 
-🐾 Obstacles:
+Return to bed with the snack to complete the level.
 
-Slippery Tiles: Reset your position and deduct points.
+⛔ Obstacles:
+Slippery Tiles (noisy): Send you back to the start and reduce points.
 
-Pets: End the game if stepped on.
+Pets: Stepping on one ends the game.
 
-Walls: Block movement.
+Walls: Cannot be crossed.
 
-🍪 Bonuses: Snacks scattered around the map give extra points.
+🏆 Bonuses:
+Collect hidden bonus snacks across the map for extra points.
 
-⏱️ Timer: Each level has a time limit.
+⏱️ Timer & Levels:
+You must complete each level within a time limit (60s → 45s → 40s).
 
-🎮 Levels: Difficulty increases with more hazards as you progress.
+Completing a level increases the difficulty:
 
-Be careful, move smart, and complete your midnight mission before time runs out!
+More pets
+
+More slippery tiles
+
+🔊 Sound Effects:
+Custom sounds for steps, slips, pets, bonuses, fridge, and final goal.
+
+✅ Final Goal:
+Complete all 3 levels by collecting the snack and returning to bed, without triggering any obstacles or running out of time.
